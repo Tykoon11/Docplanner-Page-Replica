@@ -313,7 +313,7 @@ color: #03B39B ;
     border: 1px solid #F5F5F5 ;
 }
 #container10 a:hover {
-    box-shadow: 4px 4px 20px #ABABAB;
+    box-shadow: 4px 4px 25px #ABABAB;
 }
 .label {
     display: flex;
@@ -345,6 +345,7 @@ color: #03B39B ;
 }
 .label h4:hover {
     background-color: #1663C5;
+    cursor: pointer;
 }
 #container11 {
     display: flex;
